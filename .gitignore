@@ -1,0 +1,7 @@
+# ignore node_modules within redux-starter
+
+/redux-starter/node_modules
+
+# ignore dist within redux-starter
+
+/redux-starter/dist
