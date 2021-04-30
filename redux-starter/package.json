@@ -13,5 +13,11 @@
     "webpack": "4.41.6",
     "webpack-cli": "3.3.11",
     "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "immer": "^9.0.2",
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.21",
+    "redux": "^4.1.0"
   }
 }
