@@ -6,7 +6,7 @@ import { buyCake } from "../redux";
 // accepts a function as parameter and is called selector function
 
 const HooksCakeContainer = () => {
-  const numOfCakes = useSelector((state) => state.numOfCakes);
+  const numOfCakes = useSelector((state) => state.cake.numOfCakes);
   // returns a reference to the dispatch function from the redux store
   const dispatch = useDispatch();
   return (
