@@ -5,3 +5,7 @@
 # ignore dist within redux-starter
 
 /redux-starter/dist
+
+# ignore redux-demo, node_modules
+
+/redux-demo/node_modules
