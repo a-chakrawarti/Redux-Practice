@@ -9,3 +9,7 @@
 # ignore redux-demo, node_modules
 
 /redux-demo/node_modules
+
+# ignore react-redux-demo, node_modules
+
+/react-redux-demo/node_modules
